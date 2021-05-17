@@ -1,6 +1,6 @@
-# Intellij Idea Alternative theme
+## Intellij Idea Alternative theme
 ---
-## prerequisite
+### prerequisite
 - Ayu theme [Mariage]
 - JetBrains IDEA Icons
 - IntelliJ IDEA Keybindings
