@@ -9,4 +9,4 @@
 Apply the configuration to setting.json ... :D
 
 ---
-![Look like this](ss.png "Screen Shot")
+![Look like this](ss.png "Screenshot")
