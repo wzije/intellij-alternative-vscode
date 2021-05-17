@@ -21,7 +21,6 @@
         "format.forceIndentationForTags": ["address,article,aside,audio,blockquote,body,canvas,div,dl,fieldset,figcaption,figure,footer,form,head,header,iframe,main,map,nav,object,ol,p,pre,section,style,table,tbody,td,tfoot,th,thead,tr,ul,video"]
     },
     "extensions.ignoreRecommendations": true,
-    // "extensions.showRecommendationsOnlyOnDemand": false,
     "files.exclude": {
         "**/._*": true
     },
@@ -56,11 +55,9 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "go.useLanguageServer": true,
-    // "workbench.preferredLightColorTheme": "Darcula Theme from IntelliJ",
     "files.autoSave": "afterDelay",
     "editor.mouseWheelZoom": true,
     "window.zoomLevel": 0,
-    // "workbench.preferredHighContrastColorTheme": "IntelliJ-ish Darcula",
     "editor.codeLensFontFamily": "Menlo",
     "terminal.integrated.fontFamily": "Menlo",
     "workbench.fontAliasing": "auto",
@@ -108,7 +105,6 @@
             "tab.activeBackground": "#16161b",
             "tab.activeBorder": "#3b3a3a",
             "tab.activeForeground": "#bababa",
-            // "tab.border": "#202027",
             "tab.inactiveBackground": "#25252c",
             "tab.inactiveForeground": "#a1a1a1",
             "terminal.ansiBlack": "#ffffff",
@@ -186,7 +182,6 @@
             "editorGroupHeader.noTabsBackground": "#1f2430",
             "editorGroupHeader.tabsBackground": "#1f2430",
             "editorGroupHeader.tabsBorder": "#191e2a",
-            // "tab.activeBorderTop": "#",
             "tab.unfocusedActiveBorderTop": "#707a8c",
             "tab.unfocusedActiveForeground": "#707a8c",
             "tab.unfocusedInactiveForeground": "#707a8c",
