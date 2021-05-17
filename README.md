@@ -4,5 +4,6 @@
 - Ayu theme [Mariage]
 - JetBrains IDEA Icons
 - IntelliJ IDEA Keybindings
+- Font : 'Operator Mono Lig', 'Jetbrain Mono', 'Menlo'
 
 Apply the configuration to setting.json ... :D
