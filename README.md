@@ -7,5 +7,6 @@
 - Font : 'Operator Mono Lig', 'Jetbrain Mono', 'Menlo'
 
 Apply the configuration to setting.json ... :D
+
 ---
 ![Look like this](ss.png "Screen Shot")
